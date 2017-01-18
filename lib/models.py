@@ -1,6 +1,6 @@
 import datetime
 import json
-from urllib.request import urlopen
+from urllib import urlopen
 import time
 import colorsys
 import bs4
